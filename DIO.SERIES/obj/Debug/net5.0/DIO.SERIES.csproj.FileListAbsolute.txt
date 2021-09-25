@@ -1,0 +1,12 @@
+D:\Users\ibyte\Desktop\Estudo\techdevAvanade\DIO.SERIES\bin\Debug\net5.0\DIO.SERIES.deps.json
+D:\Users\ibyte\Desktop\Estudo\techdevAvanade\DIO.SERIES\bin\Debug\net5.0\DIO.SERIES.dll
+D:\Users\ibyte\Desktop\Estudo\techdevAvanade\DIO.SERIES\bin\Debug\net5.0\ref\DIO.SERIES.dll
+D:\Users\ibyte\Desktop\Estudo\techdevAvanade\DIO.SERIES\bin\Debug\net5.0\DIO.SERIES.pdb
+D:\Users\ibyte\Desktop\Estudo\techdevAvanade\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.csproj.AssemblyReference.cache
+D:\Users\ibyte\Desktop\Estudo\techdevAvanade\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ibyte\Desktop\Estudo\techdevAvanade\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.AssemblyInfoInputs.cache
+D:\Users\ibyte\Desktop\Estudo\techdevAvanade\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.AssemblyInfo.cs
+D:\Users\ibyte\Desktop\Estudo\techdevAvanade\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.csproj.CoreCompileInputs.cache
+D:\Users\ibyte\Desktop\Estudo\techdevAvanade\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.dll
+D:\Users\ibyte\Desktop\Estudo\techdevAvanade\DIO.SERIES\obj\Debug\net5.0\ref\DIO.SERIES.dll
+D:\Users\ibyte\Desktop\Estudo\techdevAvanade\DIO.SERIES\obj\Debug\net5.0\DIO.SERIES.pdb

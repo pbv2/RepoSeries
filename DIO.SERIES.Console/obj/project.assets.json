@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "DIO.SERIES/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DIO.SERIES.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DIO.SERIES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIO.SERIES/1.0.0": {
+      "type": "project",
+      "path": "../DIO.SERIES/DIO.SERIES.csproj",
+      "msbuildProject": "../DIO.SERIES/DIO.SERIES.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "DIO.SERIES >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Users\\ibyte\\Desktop\\Estudo\\techdevAvanade\\DIO.SERIES.Console\\DIO.SERIES.Console.csproj",
+      "projectName": "DIO.SERIES.Console",
+      "projectPath": "D:\\Users\\ibyte\\Desktop\\Estudo\\techdevAvanade\\DIO.SERIES.Console\\DIO.SERIES.Console.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\ibyte\\Desktop\\Estudo\\techdevAvanade\\DIO.SERIES.Console\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Users\\ibyte\\Desktop\\Estudo\\techdevAvanade\\DIO.SERIES\\DIO.SERIES.csproj": {
+              "projectPath": "D:\\Users\\ibyte\\Desktop\\Estudo\\techdevAvanade\\DIO.SERIES\\DIO.SERIES.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
